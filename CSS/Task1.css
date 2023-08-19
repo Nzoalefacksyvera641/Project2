@@ -1,0 +1,12 @@
+.mm{
+    margin-left: 300px;
+}
+button{
+    background-color: #2ff103;
+    border: 1px solid #2ff103;
+    color: white;
+    padding: 15px;
+}
+nav{
+    color: black;
+}
